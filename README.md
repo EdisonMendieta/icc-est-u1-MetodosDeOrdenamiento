@@ -12,8 +12,7 @@ Metodo Sort Bubble
 ### Practica 2 - 21/OCTUBRE
 Metodo Sort Selecction en Java Y Python
 
-Salida de Python
-       
+Salida de Python 
 
 Salida de Java
 
@@ -34,4 +33,5 @@ Salida de Java
 **4. Arreglo de personas ordenado por edad**
 
 ![alt text](assets/Personas_ordenado_edad.png)
+
 ![alt text](assets/Personas_ordenado_edad2.png)
